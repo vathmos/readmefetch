@@ -1,7 +1,6 @@
 {
     "display_stats": [
         "username",
-        "bio",
         "location",
         "company",
         "email",
