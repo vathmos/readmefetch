@@ -2,9 +2,7 @@
     "display_stats": [
         "username",
         "location",
-        "company",
         "email",
-        "hireable",
         "followers",
         "following",
         "public_repos",
